@@ -2,5 +2,5 @@
 ##使用方法
 $cd /salary_system<br>
 $make<br>
-$./salary
-
+$./salary<br>
+[百度](www.baidu.com "指向百度的悬停")<br>
